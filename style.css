@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+.tit{
+    width: 100%;
+    height: 100vh;
+    background-image: url('img/index.png');
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+    position: absolute;
+}
+.wrap{
+    width: 1100px;
+    height: 100vh;
+    z-index: 10;
+    position: absolute;
+}

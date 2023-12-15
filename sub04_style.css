@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+a:link{color: #8E8E8E;}
+a:visited{color: #8E8E8E;}
+a:hover{color: #0080FF;}
+a:active{color: #0080FF;}
+
+nav{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    background-color: #FFE2FA;
+}
+nav ul{
+    width: 1100px;
+    height: 120px;
+    display: flex;
+    margin-top: 38px;
+    justify-content: space-between;
+}
+nav ul a{
+    font-size: 30px;
+    letter-spacing: 0px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    margin-top: -8px;
+    font-style: normal
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+.wrap{
+    width: 1100px;
+    position: absolute;
+}
+.txt01{
+    width: 100%;
+    height: 87px;
+    margin-top: 189px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt02{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt03{
+    width: 100%;
+    height: 87px;
+    margin-top: 200px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt04{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt05{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt06{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt07{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt08{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt09{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt10{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt11{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt12{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt13{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt14{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+.txt15{
+    width: 100%;
+    height: 88px;
+    margin-top: 100px;
+    margin-bottom: 204px;
+    color: #8E8E8E;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    letter-spacing: -0.4px;
+}
+footer{
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height: 100px;
+    width:100%;
+    color: white;
+    background-color: #FFE2FA;
+}
+footer ul{
+    margin-top: 20px;
+}
+footer ul a{
+    width: 160px;
+    height: 60px;
+    margin-top: 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
